@@ -4,6 +4,16 @@
 
 [Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
 
+## Скриншоты
+
+![Основной экран](assets/screenshots/neuro-mailing__main__ru.png)
+
+![Продукт и цель](assets/screenshots/neuro-mailing__product-goal__ru.png)
+
+![Фоллоу-апы](assets/screenshots/neuro-mailing__followups__ru.png)
+
+![AI-настройки](assets/screenshots/neuro-mailing__ai-settings__ru.png)
+
 ## Кратко о модуле
 
 | Параметр | Что внутри |
