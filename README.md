@@ -42,6 +42,15 @@
 4. Выберите аккаунты и ограничения по скорости.
 5. Запустите задачу и контролируйте статистику по диалогам.
 
+## Что важно подключить до и после запуска
+
+- [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram), если сначала нужно подготовить релевантную базу получателей;
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram), если требуется собрать и сгруппировать аккаунты под разные связки;
+- [Управление прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram), если коммуникация идет через устойчивую инфраструктуру;
+- [Настройки](https://github.com/Deskgram-2/telegram-automation-settings-deskgram), если сценарий зависит от AI-провайдера и общих системных параметров;
+- [Автоответчик](https://github.com/Deskgram-2/telegram-autoresponder-deskgram), если после первой AI-коммуникации нужно удерживать входящие ответы;
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram), если важно следить за диалогами, ошибками и общей динамикой запуска.
+
 ## Как устроен сценарий
 
 ### Получатели и ограничения
@@ -93,6 +102,11 @@
 - [Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation)
 - [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram)
 - [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram)
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram)
+- [Управление прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram)
+- [Настройки](https://github.com/Deskgram-2/telegram-automation-settings-deskgram)
+- [Автоответчик](https://github.com/Deskgram-2/telegram-autoresponder-deskgram)
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram)
 
 ## FAQ
 
