@@ -2,7 +2,14 @@
 
 Нейрорассылка в Deskgram 2 — это AI-модуль для отправки персонализированных сообщений в личные чаты Telegram с последующим ведением диалога к заданной цели. В отличие от обычной рассылки, здесь важна не только первая отправка, но и логика разговора, фоллоу-апы, стиль общения и движение к конверсии.
 
-[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+## Интерактивный Web Preview
+
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneuromailing)
+
+Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneuromailing)
+
+
 
 ## Скриншоты
 
